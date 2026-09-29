@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FORESIGHT — Demand & Inventory Intelligence
 
 ## Project Overview
@@ -153,3 +154,6 @@ http://127.0.0.1:8000
 Swagger documentation:
 
 http://127.0.0.1:8000/docs
+=======
+# foresight-demand-inventory-intelligence
+>>>>>>> 199309f3011794ca588e57797b1a6ba1195e2d31
